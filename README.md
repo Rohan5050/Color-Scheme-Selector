@@ -1,2 +1,2 @@
-# project_1.js
+# Color-Scheme-Selector
 This project is based on .........
