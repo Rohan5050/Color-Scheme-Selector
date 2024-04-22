@@ -1,0 +1,38 @@
+.html {
+    margin: 0px;
+}
+
+.content {
+    margin: 100px auto 100px;
+    width: 80%;
+    color: black;
+    text-align: center;
+}
+
+.span {
+    display: block;
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    margin: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#red {
+    background-color: red;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#blue {
+    background-color: blue;
+}
